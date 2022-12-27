@@ -44,7 +44,7 @@ Youtube link
 ------------------------------------------
 ## Demo ##
 Sign Up/Sign In
-
+<p align="center">
 <!-- ![Demo Sign In](ss/11.jpeg) -->
  <img width=300px src="ss/11.jpeg"></a>
  <br>
@@ -52,26 +52,18 @@ Sign Up/Sign In
  <br>
  <img width=300px src="ss/13.jpeg"></a>
  <br>
-
  <img width=300px src="ss/14.jpeg"></a>
  <br>
-
  <img width=300px src="ss/15.jpeg"></a>
  <br>
-
  <img width=300px src="ss/16.jpeg"></a>
  <br>
-
  <img width=300px src="ss/17.jpeg"></a>
  <br>
-
  <img width=300px src="ss/18.jpeg"></a>
  <br>
-
  <img width=300px src="ss/19.png"></a>
-
-
-
+</p>
 
 ------------------------------------------
 
@@ -109,8 +101,3 @@ flutter pub get
 
 <h3 align="center"><b>Developed  by <a href="https://github.com/deepanshu2506">Deepanshu Vangani</a> , <a href="https://github.com/Parth18Shah">Parth Shah</a> , <a href="https://github.com/Sakshi107">Sakshi Shelar</a> and <a href="https://github.com/hiral72">Hiral Sheth</a></b></h3>
 
-
-
-
-
-!
